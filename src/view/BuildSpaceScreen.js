@@ -168,6 +168,6 @@ const styles = StyleSheet.create({
     },
     svgElement: {
         width: 120,
-        height: '45%',
+        height: 140,
     },
 });
