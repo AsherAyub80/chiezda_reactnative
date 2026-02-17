@@ -40,6 +40,7 @@ export const svg = {
   arrow_updown: require('../../assets/svg/arrow-updown.svg'),
   comment: require('../../assets/svg/comment.svg'),
   emoji: require('../../assets/svg/emojis.svg'),
+  oval: require('../../assets/svg/oval.svg'),
 };
 
 /** getImage(name) – Flutter-style; use img.funky_card or img.home_bg_texture */
